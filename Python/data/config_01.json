@@ -1,0 +1,24 @@
+
+CONFIG = {
+
+    # Strategy
+    "expert": "EA_NBO_WeightedPricePDF",
+
+    # Market
+    "symbol": ["XAUUSD","EURUSD"],
+    "timeframe": "M1",
+
+    # Evaluation period
+    "start_date": "2024-01-01",
+    "end_date": "2025-12-31",
+
+    # Walk-forward settings
+    "optimization_interval_days": 7,
+    "optimization_lookback_days": 30,
+
+    # Selection 
+    "top_configs": 5,
+
+    # Output
+    "output_dir": "./data/results/"
+}
