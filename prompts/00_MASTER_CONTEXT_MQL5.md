@@ -1,8 +1,4 @@
 
-   - main project directory (will refer as "git directory"): "C:\Users\sadra\PycharmProjects\AdaptiveTrader\AdaptiveTrader_v03"
-   - MQL5 directory (will refer as mlq directory): "C:\Users\sadra\AppData\Roaming\MetaQuotes\Terminal\D0E8209F77C8CF37AD8BF550E51FF075\MQL5"
-## Global rules. Follow ALL rules below
-   - all final created files must have a saved copy in git directory. for testing mql5 codes agent should copy file in mql directory. after testing mql files, the temprory files should be deleted and requsted files should move to git directory.
 
 ---
 # MASTER CONTEXT — MQL5 Modular Trading Framework (AdaptiveTrader)
