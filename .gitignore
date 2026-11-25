@@ -1,2 +1,4 @@
 ignore/
-Python/data/results/
+# Keep result summaries directly under each result set, but exclude all
+# nested run/cycle directories and their (often large) contents.
+/Python/data/results/*/*/
